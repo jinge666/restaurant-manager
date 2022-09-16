@@ -149,8 +149,8 @@
 				this.show = false
 			},
 			async submit () {
-				this.loading = true
 				this.$refs.form1.validate().then(async res => {
+					this.loading = true
 					// 改变order的状态
 					const params = {
 						orderId:this.orderId,

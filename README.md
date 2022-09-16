@@ -8,3 +8,9 @@
 
 # 路过的大佬给个小星星
 
+### 后端地址
+
+github：[点击这里](https://github.com/jinge666/restaurant-manager-server)
+
+gitee：[点击这里](https://gitee.com/jin-wending/restaurant-manager-server)
+
